@@ -10,9 +10,6 @@ Kerangka Metasploit adalah alat canggih yang dapat digunakan oleh penjahat dunia
 * pkg update && pkg upgrade -y
 * pkg install bash git -y
 * <pre>cd $HOME && git clone https://github.com/Loddy-02/xploit</pre>
-
-### CARA MENJALANKAN
-
 * cd xploit
 * bash run.sh
 
