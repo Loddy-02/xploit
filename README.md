@@ -12,7 +12,7 @@ Kerangka Metasploit adalah alat canggih yang dapat digunakan oleh penjahat dunia
 * <pre>cd $HOME && git clone https://github.com/Loddy-02/xploit</pre>
 
 ### VIDIO PENGINSTALLAN
-<p align="center"><a href="https://youtu.be/CWqyJXUketM"><img title="Loddy XP" src="https://github.com/Loddy-02/msfdown/blob/main/image/20220610_125950.png"></a>
+<p align="center"><a href="https://youtu.be/-D3eVFanEPI"><img title="Loddy XP" src="https://github.com/Loddy-02/xploit/blob/main/image/20220623_031514.png"></a>
 </p>
 
 ### BISA DIPAKAI :
